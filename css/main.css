@@ -1,0 +1,12 @@
+/*메인 섹션에 해당하는 css파일*/
+#main{
+    background-color: #A8B3D7;
+    width: 80%;
+    text-align:center;   /*텍스트 가운데 배치*/
+    line-height: 1.7; /*텍스트 줄 높이*/
+}
+
+p{
+    font-family: 'yg-jalnan';
+    font-size: 21px;
+}

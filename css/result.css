@@ -1,0 +1,125 @@
+#result {
+    display: none;
+    text-align: center;
+    font-size: 15.5px;
+}
+
+#shareResult{
+    text-align: center;
+    font-size: 15.5px;
+}
+  
+.resultdefault{
+    font-family: 'yg-jalnan';
+    font-size: 0.9rem;
+    white-space: normal;
+}
+.resultperson{
+    font-family: 'yg-jalnan';
+    text-align: center;
+    font-size: 1.15rem;
+    white-space: normal;
+}
+  
+.resultname{
+    font-family: 'yg-jalnan';
+    font-size: 3rem;
+    white-space: normal;
+    text-align: center;
+}
+#resultImg{
+    width:auto;
+    height:inherit;
+    max-height:100%;
+}
+  
+#resultDesc{
+    background-color: #F2F2F2;
+    text-align: left;
+    border-radius: 1.25rem;
+    width: 90%;
+    padding-top: 1.25rem;
+    padding-left: 0.55rem;
+    padding-right: 0.55rem;
+    padding-bottom: 1.25rem;
+    font-family: 'Cafe24SsurroundAir';
+    font-size: 1rem;
+    white-space: pre-line;
+}
+.bestsection{
+    margin-top: 1.25rem;
+    background-color: #F2F2F2;
+    border-radius: 1.25rem;
+    width: 90%;
+    padding-top: 1.25rem;
+    padding-left: 0.55rem;
+    padding-right: 0.55rem;
+    padding-bottom: 1.25rem;
+}
+  
+.besttitle{
+    font-family: 'Cafe24SsurroundAir';
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+}
+.bestresult{
+    font-family: 'Cafe24SsurroundAir';
+    font-size: 1rem;
+    text-align: center;
+    white-space: normal;
+}
+  
+.worstsection{
+    background-color: #F2F2F2;
+    border-radius: 20px;
+    width: 90%;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+.worsttitle{
+    font-family: 'Cafe24SsurroundAir';
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+}
+  
+.worstresult{
+    font-family: 'Cafe24SsurroundAir';
+    font-size: 1rem;
+    text-align: center;
+    white-space: normal;
+}  
+  
+.return{
+    color: #F2F2F2;
+    background-color: #6A7DBA;
+    font-family: 'Cafe24SsurroundAir';
+    font-size: 1rem;
+    border: 0px;
+    border-radius: 1.25rem;
+    margin-bottom: 2rem;
+}
+  
+.return:hover, .return:focus {
+    background-color: #F2F2F2;
+    color: #6A7DBA
+}
+
+.itemlink{
+    color: #F2F2F2;
+    background-color: #6A7DBA;
+    font-family: 'Cafe24SsurroundAir';
+    font-size: 1rem;
+    border: 0px;
+    border-radius: 1.25rem;
+    margin-bottom: 2rem;
+}
+  
+.itemlink:hover, .itemlink:focus {
+    background-color: #F2F2F2;
+    color: #6A7DBA
+}
+
