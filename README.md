@@ -17,8 +17,8 @@
 
 ## 📸 서비스 화면
 
-<!-- 이미지 추가: ![화면 설명](docs/images/item-page1.png) -->
-<!-- 이미지 추가: ![화면 설명](docs/images/item-page2.png) -->
+![](docs/images/item-page1.png)
+![](docs/images/item-page2.png)
 
 ## 🛠 기술 스택
 
